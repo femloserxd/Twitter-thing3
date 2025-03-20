@@ -1,1 +1,1 @@
-{ "builds": [ { "src": "api.py", "use": "@vercel/python" } ], "routes": [ { "src": "/(.*)", "dest": "api.py" } ] } > vercel.json
+{ "builds": [ { "src": "api.py", "use": "@vercel/python" } ], "routes": [ { "src": "/(.*)", "dest": "api.py" } ] } 
